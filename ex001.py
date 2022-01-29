@@ -1,6 +1,6 @@
 '''
-Imprimir na tela a mensagem "Olá Mundo"
+Crie um programa que escreva "Olá, Mundo!" na tela.
 '''
 
 print('===== Exercício 01 =====')
-print('Olá Mundo!')
+print('Olá, Mundo!')
