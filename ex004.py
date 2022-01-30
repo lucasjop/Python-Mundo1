@@ -1,3 +1,7 @@
+'''
+Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+'''
+
 print('===== Exercício 04 =====')
 txt = input('Digite algo: ')
 print('O termo digitado é do tipo {}'.format(type(txt)))
